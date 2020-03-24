@@ -16,8 +16,8 @@ class Database {
 	// declare and initialize variables for connect() function
 	private static $dbName         = 'rwmugasa355wi20' ; 
 	private static $dbHost         = '10.8.30.49' ;
-	private static $dbUsername     = 'rwmugasa355wi20';
-	private static $dbUserPassword = 'rwmugasadbwi20vtd';
+	private static $dbUsername     = 'username';
+	private static $dbUserPassword = 'password';
 	
 	// declare and initialize PDO instance variable: $connection
 	private static $connection  = null;
